@@ -7,7 +7,8 @@ const Main = () => {
       <main>
          <Carrousel/>
          <Marketing/>
-         <Footer text= "texto modif"/>
+         <Footer text = "tex1"/>
+         {/* <Footer tex2 = "tex2" /> */}
       </main>
    )
 }
